@@ -3,15 +3,15 @@
 http://testnet.europechain.io/
 
 API endpoints:
-http://testnet.europechain.io:8888
-http://testnet.europechain.io:2118
+http://testnet.europechain.io:8888  
+http://testnet.europechain.io:2118  
 
 
 
 ## EOSIO Compilation
 Please compile EOSIO with `-s EUC` option
 
-## Setuping data-dir
+## Setup data-dir
 1. Create folder /opt/EUC_Testnet 
 ```
 mkdir /opt/EUC_Testnet
