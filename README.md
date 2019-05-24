@@ -3,9 +3,9 @@
 http://testnet.europechain.io/
 
 API endpoints:
-http://testnet.europechain.io:8888  
-http://testnet.europechain.io:2118  
-
+http://testnet.europechain.io:8888/v1/chain/get_info  
+http://testnet.europechain.io:2118/v1/chain/get_info  
+https://testnet.europechain.io:4388/v1/chain/get_info  
 
 
 ## EOSIO Compilation
