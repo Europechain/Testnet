@@ -1,5 +1,7 @@
 # EUC Testnet
 
+Based on: v1.8.0-rc2 EOSIO and 1.7.0-rc1 System Contracts  
+
 http://testnet.europechain.io/
 
 API endpoints:
