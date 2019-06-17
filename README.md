@@ -1,8 +1,6 @@
 # EUC Testnet
 
 Based on: v1.8.0-rc2 EOSIO and 1.7.0-rc1 System Contracts  
-Please compile your eosio sources with parametrs:
-`./eosio_build.sh -P -f -s EUC`
 
 http://testnet.europechain.io/
 
@@ -13,7 +11,7 @@ https://testnet.europechain.io:4388/v1/chain/get_info
 
 
 ## EOSIO Compilation
-Please compile EOSIO with `-s EUC` option
+Please compile EOSIO with `./eosio_build.sh -P -f -s EUC` options
 
 ## Setup data-dir
 1. Create folder /opt/EUC_Testnet 
