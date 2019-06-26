@@ -1,15 +1,15 @@
 #!/bin/bash
 ################################################################################
-# EUC Scripts
+# XEC Scripts
 #
 # Scrip Created by http://CryptoLions.io
-# For EUC testnet
+# For Europe Chain testnet
 #
 # https://github.com/euchain/
 #
 ###############################################################################
 
-DIR="/opt/EUC_Testnet/Wallet"
+DIR="/opt/XEC_Testnet/Wallet"
 
     if [ -f $DIR"/wallet.pid" ]; then
         pid=$(cat $DIR"/wallet.pid")

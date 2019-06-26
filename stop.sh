@@ -2,13 +2,13 @@
 ################################################################################
 #
 # Scrip Created by http://CryptoLions.io
-# For EUC testnet
+# For Europe Chain testnet
 #
 # https://github.com/euchain/
 #
 ################################################################################
 
-DIR="/opt/EUC_Testnet"
+DIR="/opt/XEC_Testnet"
 
 if [ -f $DIR"/nodeos.pid" ]; then
     pid=`cat $DIR"/nodeos.pid"`

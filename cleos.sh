@@ -2,12 +2,12 @@
 ################################################################################
 #
 # Scrip Created by http://CryptoLions.io
-# For EUC testnet
+# For Europe Chain testnet
 #
 # https://github.com/euchain/
 #
 ################################################################################
-EOSIOBIN=/opt/EUC/bin/bin
+EOSIOBIN=/opt/XEC/bin/bin
 
 WALLETHOST="127.0.0.1"
 NODEHOST="127.0.0.1"

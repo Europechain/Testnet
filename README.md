@@ -1,4 +1,4 @@
-# EUC Testnet
+# Europe Chain Testnet
 
 Based on: v1.8.0-rc2 EOSIO and 1.7.0-rc1 System Contracts  
 
@@ -11,17 +11,17 @@ https://testnet.europechain.io:4388/v1/chain/get_info
 
 
 ## EOSIO Compilation
-Please compile EOSIO with `./eosio_build.sh -P -f -s EUC` options
+Please compile EOSIO with `./eosio_build.sh -P -f -s XEC` options
 
 ## Setup data-dir
-1. Create folder /opt/EUC_Testnet 
+1. Create folder /opt/XEC_Testnet 
 ```
-mkdir /opt/EUC_Testnet
+mkdir /opt/XEC_Testnet
 ```
 
 2. Clone this GIT repo in same folder:
 ```
-cd /opt/EUC_Testnet
+cd /opt/XEC_Testnet
 git clone https://github.com/euchain/Testnet.git ./
 ```
 
