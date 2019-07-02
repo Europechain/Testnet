@@ -1,6 +1,6 @@
 # Europe Chain Testnet
 
-Based on: v1.8.0-rc2 EOSIO and 1.7.0-rc1 System Contracts  
+Based on: v1.8.0 EOSIO and 1.7.0 System Contracts  
 
 http://testnet.europechain.io/
 
